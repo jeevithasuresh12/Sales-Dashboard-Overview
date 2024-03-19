@@ -7,7 +7,7 @@ This repository contains a Tableau dashboard visualizing key performance indicat
 - Visualizations of sales revenue, profit margins, and other relevant metrics.
 - Year-over-year comparison for each KPI.
 - Drill-down capabilities to analyze data at different levels of granularity.
-- Filters for selecting specific regions, or product categories.
+- Filters for selecting specific regions, or metrics.
 
 ## Data Source
 
