@@ -25,4 +25,4 @@ Feel free to explore the dashboard and analyze the sales performance for 2021 an
 
 ## Author
 
-- Jeevitha Suresh
+- Jeevitha Suresh (https://public.tableau.com/app/profile/jeevitha.suresh6002/vizzes)
